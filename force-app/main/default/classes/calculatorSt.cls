@@ -1,4 +1,6 @@
 public class calculatorSt {
+    //Parameters: two integers
+    //returns:sum of two integers
     public static integer add(integer a, integer b) {
         return a+b;
     }
